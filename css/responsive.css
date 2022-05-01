@@ -4,6 +4,7 @@
         height: 250px;
         flex-direction: column;
         align-items: center;
+        margin: 0 auto;
     }
     .map{
         display: none;
@@ -54,11 +55,11 @@
 @media (max-width:700px) {
     .footer{
         width: 500px;
-        height: 600;
+        height: 700px;
         margin: 0 auto;
         flex-direction: column;
         align-items: center;
-        margin-top: 1050px;
+        margin-top: 900px;
     }
     
     .block {

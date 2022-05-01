@@ -24,14 +24,14 @@
     margin-left: 20px;
 }
 .fa-bars{
-    font-size: 30px;
-    color: darkorange;
+    display: none;
+   
+    
     
     
 }
 .burge-bar{
-    
-    display: none;
+     display: none;
     
 }
 .contact{
